@@ -1,0 +1,13 @@
+#banner {
+    /* background-color: blue; */
+    color: white;
+    text-align: center;
+}
+body {
+    margin: 5px;
+}
+#train-table th,
+td {
+  display: inline-block;
+  width: 16.575%;
+}
